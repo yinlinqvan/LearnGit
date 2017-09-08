@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"初始化项目");
     NSLog(@"实现功能一");
+    NSLog(@"实现功能二");
 }
 
 
