@@ -25,6 +25,7 @@
     NSLog(@"实现功能六");
     NSLog(@"v1提测版");
     NSLog(@"修复bug#01");
+    NSLog(@"修复bug#02");
 }
 
 
