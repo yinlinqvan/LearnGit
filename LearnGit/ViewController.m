@@ -16,7 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"yinlinqvan 初始化项目");
+    NSLog(@"初始化项目");
+    NSLog(@"实现功能一");
 }
 
 
