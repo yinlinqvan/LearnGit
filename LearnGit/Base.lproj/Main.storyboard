@@ -51,10 +51,18 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="实现功能五" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cRe-go-1zf">
+                                <rect key="frame" x="144" y="173" width="87" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="4KZ-Nt-AUJ" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="8" id="2QG-W2-Xti"/>
+                            <constraint firstItem="cRe-go-1zf" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="IzC-QI-2kA"/>
+                            <constraint firstItem="cRe-go-1zf" firstAttribute="top" secondItem="d01-u7-pbA" secondAttribute="bottom" constant="8" id="JHZ-37-NR8"/>
                             <constraint firstItem="7tk-BU-W5u" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="LlU-v5-yEj"/>
                             <constraint firstItem="d01-u7-pbA" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="MaW-Pf-rbc"/>
                             <constraint firstItem="9Gx-v2-Oeq" firstAttribute="top" secondItem="7tk-BU-W5u" secondAttribute="bottom" constant="8" id="RQf-dn-5hr"/>
