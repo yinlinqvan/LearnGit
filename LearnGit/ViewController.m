@@ -26,6 +26,7 @@
     NSLog(@"v1提测版");
     NSLog(@"修复bug#01");
     NSLog(@"修复bug#02");
+    NSLog(@"v1提测版2");
 }
 
 
