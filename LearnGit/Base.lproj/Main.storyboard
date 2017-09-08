@@ -45,14 +45,22 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="实现功能四" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="d01-u7-pbA">
+                                <rect key="frame" x="144" y="144" width="87" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="4KZ-Nt-AUJ" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="8" id="2QG-W2-Xti"/>
                             <constraint firstItem="7tk-BU-W5u" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="LlU-v5-yEj"/>
+                            <constraint firstItem="d01-u7-pbA" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="MaW-Pf-rbc"/>
                             <constraint firstItem="9Gx-v2-Oeq" firstAttribute="top" secondItem="7tk-BU-W5u" secondAttribute="bottom" constant="8" id="RQf-dn-5hr"/>
                             <constraint firstItem="4KZ-Nt-AUJ" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="SQ0-To-Oyr"/>
                             <constraint firstItem="a9E-9u-rRb" firstAttribute="top" secondItem="9Gx-v2-Oeq" secondAttribute="bottom" constant="8" id="UUt-yH-dLo"/>
+                            <constraint firstItem="d01-u7-pbA" firstAttribute="top" secondItem="a9E-9u-rRb" secondAttribute="bottom" constant="8" id="gue-L4-f8R"/>
                             <constraint firstItem="9Gx-v2-Oeq" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="pV2-fP-YYQ"/>
                             <constraint firstItem="a9E-9u-rRb" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="wGa-h2-bWr"/>
                             <constraint firstItem="7tk-BU-W5u" firstAttribute="top" secondItem="4KZ-Nt-AUJ" secondAttribute="bottom" constant="8" id="ztG-xT-Qsj"/>
